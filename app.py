@@ -1147,7 +1147,7 @@ st.markdown("""
 .footer a { color:#58a6ff; text-decoration:none; }
 </style>
 <div class="footer">
-    Built with ❤️ by <b>YAADHAV</b> &nbsp;|&nbsp;
+    Created  by <b>Naveen Raja</b> &nbsp;|&nbsp;
     Powered by <a href="https://openweathermap.org" target="_blank">OpenWeatherMap</a>
     &nbsp;|&nbsp;
     <a href="https://github.com/yaadhav-d/weather-automation-dashboard.git" target="_blank">GitHub</a>
