@@ -1401,7 +1401,6 @@ with tab_tour:
 
     feat_cols = st.columns(3)
     features = [
-        ("🌅 Dynamic Background", "The app background image changes automatically based on real weather conditions — sunny, rainy, foggy, thunderstorm, night, cold, and more. Temperature also influences the image selection."),
         ("🕒 IST Throughout", "All data collection timestamps, chart axes, table columns, and display times use Indian Standard Time (IST, UTC+5:30). No confusion with UTC or local browser time."),
         ("💾 Persistent DB Storage", "Every 1 minute, a new reading is written to the MySQL database. This means your history builds up over time and charts become richer the longer the app runs."),
         ("📅 7-Day Seeded History", "When you visit a new city for the first time, the app auto-seeds 7 days of realistic synthetic history so the charts and heatmaps are immediately populated."),
