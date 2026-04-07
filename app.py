@@ -1446,7 +1446,7 @@ with tab_tour:
 st.divider()
 st.markdown(f"""
 <div style="text-align:center;color:rgba(255,255,255,0.45);font-size:13px;padding:10px 0;">
-    🌦️ Weather Analytics Pro &nbsp;·&nbsp;
+    🌦️ Weather Analytics &nbsp;·&nbsp;
     Created by <b>Naveen Raja</b> &nbsp;·&nbsp;
     Powered by <a href="https://openweathermap.org" target="_blank" style="color:#38bdf8;">OpenWeatherMap</a>
     &nbsp;·&nbsp;
