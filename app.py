@@ -1433,7 +1433,7 @@ with tab_tour:
     st.divider()
     st.markdown("""
     <div style="text-align:center;padding:20px 0;opacity:0.6;font-size:13px;">
-        Built with ❤️ by <b>Naveen Raja</b> &nbsp;·&nbsp;
+        Built by <b>Naveen Raja</b> &nbsp;·&nbsp;
         Powered by <a href="https://openweathermap.org" target="_blank" style="color:#38bdf8;">OpenWeatherMap</a>
         &nbsp;·&nbsp;
         <a href="https://github.com/yaadhav-d/weather-automation-dashboard.git" target="_blank" style="color:#38bdf8;">GitHub</a>
