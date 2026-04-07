@@ -66,7 +66,7 @@ COUNTRY_CITY = {
 # PAGE CONFIG
 # =============================================================
 
-st.set_page_config(page_title="Weather Analytics Pro", page_icon="🌦️", layout="wide")
+st.set_page_config(page_title="Weather Analytics", page_icon="🌦️", layout="wide")
 
 # =============================================================
 # GLOBAL CSS
