@@ -619,7 +619,7 @@ today_filtered = apply_time_filter(today_df,   "recorded_at", TIME_FILTER)
 # HEADER
 # =============================================================
 
-st.markdown("# 🌦️ Weather Analytics Pro")
+st.markdown("# 🌦️ Weather Analytics")
 st.caption(
     f"📍 {CITY}, {COUNTRY}  ·  "
     f"🕒 IST: {now_ist().strftime('%A, %d %B %Y  %H:%M')}  ·  "
